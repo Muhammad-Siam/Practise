@@ -21,9 +21,9 @@ func main() {
 
 	fmt.Println(x)
 
-	primes := []string{"Siam", "Rahat", "Rupa", "Mahad", "Sajid", "Jayed"}
+	names := []string{"Siam", "Rahat", "Rupa", "Mahad", "Sajid", "Jayed"}
 
-	var s []string = primes[1:6]
+	var s []string = names[1:6]
 	fmt.Println(s)
 }
 
