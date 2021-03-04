@@ -22,11 +22,11 @@ func main(){
 
 }
 
-	i:=0
+	i:=1+1
 
 	for i<10 {
 
-	fmt.Println("I am gonna use that")
+	fmt.Println(i)
 
 	i++
 
